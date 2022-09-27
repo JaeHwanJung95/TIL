@@ -134,3 +134,5 @@ git checkout -b 브랜치명
 ```
 git merge 브랜치명
 ```
+
+### 브랜치 연습
