@@ -136,3 +136,9 @@ git merge 브랜치명
 ```
 
 ### 브랜치 연습
+
+## 2022-10-11
+- 지금까지 배운 명령어 개념과 함께 복습
+  - git commit, git branch, git checkout, git checkout -b, git merge, git pull
+  - 참고 사이트 : https://violet-bora-lee.github.io/git-tutorial/
+  
