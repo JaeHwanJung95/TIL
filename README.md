@@ -139,6 +139,7 @@ git merge 브랜치명
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## 2022-10-11
 
@@ -147,3 +148,10 @@ git merge 브랜치명
 - ID/PW 방식
 - 방식(공개키/개인키)
 - 토큰 방식(personal access token)
+=======
+## 2022-10-11
+- 지금까지 배운 명령어 개념과 함께 복습
+  - git commit, git branch, git checkout, git checkout -b, git merge, git pull
+  - 참고 사이트 : https://violet-bora-lee.github.io/git-tutorial/
+  
+>>>>>>> 9aae6ad785ba0bffecddeab0cefa46a0d257d1ee
